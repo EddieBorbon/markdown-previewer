@@ -2,7 +2,7 @@
   "name": "markdown-previewer",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eddieborbon.github.io/Markdown_Previewer",
+  "homepage": "https://eddieborbon.github.io/markdown-previewer",
   "dependencies": {
     "cra-template": "1.2.0",
     "dompurify": "^3.2.3",
