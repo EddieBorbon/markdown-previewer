@@ -24,7 +24,7 @@ A **simple** and **modern** Markdown Previewer built with **React**. This app al
 
 ## 🖥️ Demo
 
-Try the **live demo** here: [Markdown Previewer Demo]((https://eddieborbon.github.io/markdown-previewer/)) *(Replace with your actual demo link)* 🚀.
+Try the **live demo** here: [[Markdown Previewer Demo]((https://eddieborbon.github.io/markdown-previewer/))](https://eddieborbon.github.io/markdown-previewer/) *(Replace with your actual demo link)* 🚀.
 
 ---
 
